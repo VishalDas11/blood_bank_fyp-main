@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582000207206",
+    "project_id": "blood-622b6",
+    "storage_bucket": "blood-622b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582000207206:android:aa3376e14772fd21a994a7",
+        "android_client_info": {
+          "package_name": "com.pktech.blood_bank_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582000207206-59ft2oh95t9nkki24ddkurt0ircl7561.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArklEGfdapiVIXoqOroxDuWtFFfZ0OE9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582000207206-59ft2oh95t9nkki24ddkurt0ircl7561.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

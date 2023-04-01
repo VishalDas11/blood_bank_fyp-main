@@ -1,0 +1,9 @@
+{
+    "dart.renameFilesWithClasses": "always",
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "afterDelay",
+    "dart.flutterAdbConnectOnChromeOs": true,
+    "dart.hotReloadOnSave": "all",
+    "dart.offline": false,
+    "dart.flutterHotReloadOnSave": "all"
+}
